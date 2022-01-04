@@ -1,0 +1,7 @@
+Python:
+
++Paleta de colores y códigos hexadecimales: https://bleach.fandom.com/es/wiki/Ayuda:Paleta_de_colores
++Cuadros de diálogo: https://recursospython.com/guias-y-manuales/cuadros-de-dialogo-messagebox-en-tkinter/
++Output en un Label: https://stackoverflow.com/questions/38228932/python-tkinter-label-output
++Método pack: https://www.geeksforgeeks.org/python-pack-method-in-tkinter/
++Esconder Label: https://stackoverflow.com/questions/27654494/hide-label-when-a-button-is-clicked-in-python 
